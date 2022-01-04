@@ -1,5 +1,5 @@
 {
-    "compilerOptions": { // Опции компилятора TS -> JS
+    "compilerOptions": { // Опции компилятора TS ->
         "module": "commonjs", // Способ компиляции модулей (на выходе)
         "target": "es2017", // В JS какого века компилировать
         "lib": [
